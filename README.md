@@ -81,7 +81,7 @@ Vue.js is an MIT-licensed open source project. Its ongoing development is made p
 
 ## Intro
 
-Vue.js is a library for building interactive web interfaces. It provides data-reactive components with a simple and flexible API. Core features include:
+Vue.js is a javascript library for building interactive web interfaces. It provides data-reactive components with a simple and flexible API. Core features include:
 
 - [Declarative rendering with a plain JavaScript object based reactivity system](https://vuejs.org/guide/index.html#Declarative-Rendering)
 - [Component-oriented development style with tooling support](https://vuejs.org/guide/index.html#Composing-with-Components)
